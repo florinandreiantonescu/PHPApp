@@ -1,8 +1,8 @@
 # Provider configuration
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAZ7K3HF6VGLNKBSCN"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 # S3 Bucket
